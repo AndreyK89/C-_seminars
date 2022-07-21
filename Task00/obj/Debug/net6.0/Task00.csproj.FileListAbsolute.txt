@@ -1,0 +1,15 @@
+C:\Users\BETEPOK\Documents\Start C#\Знак_яз_прог_я\Seminar01\Task00\bin\Debug\net6.0\Task00.exe
+C:\Users\BETEPOK\Documents\Start C#\Знак_яз_прог_я\Seminar01\Task00\bin\Debug\net6.0\Task00.deps.json
+C:\Users\BETEPOK\Documents\Start C#\Знак_яз_прог_я\Seminar01\Task00\bin\Debug\net6.0\Task00.runtimeconfig.json
+C:\Users\BETEPOK\Documents\Start C#\Знак_яз_прог_я\Seminar01\Task00\bin\Debug\net6.0\Task00.dll
+C:\Users\BETEPOK\Documents\Start C#\Знак_яз_прог_я\Seminar01\Task00\bin\Debug\net6.0\Task00.pdb
+C:\Users\BETEPOK\Documents\Start C#\Знак_яз_прог_я\Seminar01\Task00\obj\Debug\net6.0\Task00.csproj.AssemblyReference.cache
+C:\Users\BETEPOK\Documents\Start C#\Знак_яз_прог_я\Seminar01\Task00\obj\Debug\net6.0\Task00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BETEPOK\Documents\Start C#\Знак_яз_прог_я\Seminar01\Task00\obj\Debug\net6.0\Task00.AssemblyInfoInputs.cache
+C:\Users\BETEPOK\Documents\Start C#\Знак_яз_прог_я\Seminar01\Task00\obj\Debug\net6.0\Task00.AssemblyInfo.cs
+C:\Users\BETEPOK\Documents\Start C#\Знак_яз_прог_я\Seminar01\Task00\obj\Debug\net6.0\Task00.csproj.CoreCompileInputs.cache
+C:\Users\BETEPOK\Documents\Start C#\Знак_яз_прог_я\Seminar01\Task00\obj\Debug\net6.0\Task00.dll
+C:\Users\BETEPOK\Documents\Start C#\Знак_яз_прог_я\Seminar01\Task00\obj\Debug\net6.0\refint\Task00.dll
+C:\Users\BETEPOK\Documents\Start C#\Знак_яз_прог_я\Seminar01\Task00\obj\Debug\net6.0\Task00.pdb
+C:\Users\BETEPOK\Documents\Start C#\Знак_яз_прог_я\Seminar01\Task00\obj\Debug\net6.0\Task00.genruntimeconfig.cache
+C:\Users\BETEPOK\Documents\Start C#\Знак_яз_прог_я\Seminar01\Task00\obj\Debug\net6.0\ref\Task00.dll
